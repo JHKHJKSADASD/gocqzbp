@@ -189,7 +189,7 @@ import (
 )
 
 var (
-	nicks  = []string{"圣代"}
+	nicks  = []string{"圣代","薯条"}
 	adana  *string
 	prefix *string
 )
